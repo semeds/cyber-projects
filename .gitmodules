@@ -1,0 +1,6 @@
+[submodule "ad-powershell-lab"]
+	path = ad-powershell-lab
+	url = https://github.com/semeds/ad-powershell-lab.git
+[submodule "osticket-lab"]
+	path = osticket-lab
+	url = https://github.com/semeds/osticket-lab.git
