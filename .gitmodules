@@ -4,3 +4,6 @@
 [submodule "osticket-lab"]
 	path = osticket-lab
 	url = https://github.com/semeds/osticket-lab.git
+[submodule "soc-lab"]
+	path = soc-lab
+	url = https://github.com/semeds/soc-lab.git
