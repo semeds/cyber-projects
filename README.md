@@ -10,5 +10,5 @@ I plan to include the errors I faced and the steps I took to troubleshoot each p
 
 [AD/Powershell Lab Automation](https://github.com/semeds/ad-powershell-lab/blob/main/Active%20Directory%20%26%20Powershell%20Automation%20Lab%20-%20Deploying%20AD%2C%20DHCP%2C%20RAS%20and%20NAT.md)
 
-[OS Ticket Lab](https://github.com/semeds/osticket-lab](https://github.com/semeds/osticket-lab/blob/main/osTickect%20Help%20Desk%20Lab.md)
+[OS Ticket Lab](https://github.com/semeds/osticket-lab/blob/main/osTickect%20Help%20Desk%20Lab.md)
 
