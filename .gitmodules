@@ -7,3 +7,6 @@
 [submodule "soc-lab"]
 	path = soc-lab
 	url = https://github.com/semeds/soc-lab.git
+[submodule "nhg-lab"]
+	path = nhg-lab
+	url = https://github.com/semeds/nhg-lab.git
