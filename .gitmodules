@@ -10,3 +10,4 @@
 [submodule "nhg-lab"]
 	path = nhg-lab
 	url = https://github.com/semeds/nhg-lab.git
+	branch = main
