@@ -1,12 +1,15 @@
 [submodule "ad-powershell-lab"]
 	path = ad-powershell-lab
 	url = https://github.com/semeds/ad-powershell-lab.git
+	branch = main
 [submodule "osticket-lab"]
 	path = osticket-lab
 	url = https://github.com/semeds/osticket-lab.git
+	branch = main
 [submodule "soc-lab"]
 	path = soc-lab
 	url = https://github.com/semeds/soc-lab.git
+	branch = main
 [submodule "nhg-lab"]
 	path = nhg-lab
 	url = https://github.com/semeds/nhg-lab.git
